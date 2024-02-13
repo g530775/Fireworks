@@ -1,0 +1,12 @@
+name: Firework
+main: Firework.Main
+version: 1.0
+api-version: 1.13
+commands:
+  fireworks:
+    aliases:
+      - "fws"
+    usage: "/fws help"
+    description: "总指令"
+    permission: "Fireworks.main"
+    permission-message: "无权限!"
